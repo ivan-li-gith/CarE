@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/workspaces/CarE/build/CMakeFiles/bootloader
+/workspaces/CarE/build/CMakeFiles/bootloader.rule
+/workspaces/CarE/build/CMakeFiles/bootloader-complete.rule
+/workspaces/CarE/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/workspaces/CarE/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/workspaces/CarE/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/workspaces/CarE/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/workspaces/CarE/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/workspaces/CarE/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/workspaces/CarE/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
